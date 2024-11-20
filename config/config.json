@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "Razzmatazz12345@",
+    "database": "firstsql",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "Razzmatazz12345@",
+    "database": "firstsql",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "Razzmatazz12345@",
+    "database": "firstsql",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
